@@ -14,10 +14,11 @@
  2. 삼항연산자의 예시
 <pre>
 <code>
-  credit = score == 9 || score == 10 ? 'A' :
-  				 score == 8 ? 'B' :
-  				 score == 7 ? 'C' :
-  				 score == 6 ? 'D' :	'F';
+  credit = 
+  score == 9 || score == 10 ? 'A' :
+  score == 8 ? 'B' :
+  score == 7 ? 'C' :
+  score == 6 ? 'D' :	'F';
 </code>
 </pre>
 
