@@ -57,7 +57,6 @@ public class JavaEx12 {
 //				credit = 'D';
 //			}
 //		}
-		
 		System.out.println("학점 : " + credit);		
 	}
 }
