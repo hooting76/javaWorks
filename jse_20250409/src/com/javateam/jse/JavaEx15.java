@@ -1,4 +1,4 @@
-package jse_20250409;
+package com.javateam.jse;
 import java.util.Scanner;
 
 public class JavaEx15 {

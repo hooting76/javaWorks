@@ -1,4 +1,4 @@
-package jse_20250409;
+package com.javateam.jse;
 
 public class JavaEx20 {
 
