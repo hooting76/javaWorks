@@ -7,7 +7,7 @@ public class RoundEx {
 		// float num = 82.33333f;
 		float num = 82.55555f;
 		// System.out.println(Math.round(num)); 
-		// System.out.printf("%.1f%n", (float)Math.round(num));
+		// System.out.printf("%.1f%n", (float)Math.round(num)); //nn.o
 		// 기본) 소숫점 1째자리에서 반올림 => 정수 성분만 값이 존재. 소숫점은 손실
 		
 		// 소숫점 2째자리에서 반올림 => 정수/소숫점 1자리 표현
